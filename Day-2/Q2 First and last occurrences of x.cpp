@@ -1,3 +1,5 @@
+//https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1
+
 #include<bits/stdc++.h>
 using namespace std;
 vector<int> find(int a[], int n , int x );
